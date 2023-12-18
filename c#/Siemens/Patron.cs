@@ -12,6 +12,29 @@ namespace Siemens
         public int Id { get; set; }
         public string ContactInfo { get; set; }
 
-        public List<Borrow> Borrows { get; set; }
+        public List<Borrow> ActiveBorrows
+        {
+            get
+            {
+                var list = new List<Borrow>();
+                foreach (Borrow b in BorrowingSystem.Borrows)
+                {
+                    if (b.PatronId == Id && !b.Returned)
+                    {
+                        list.Add(b);
+                    }
+                }
+                return list;
+            }
+        }
+
+        public int CurrentBorrowsCount
+        {
+            get 
+            { 
+                return this.ActiveBorrows.Count;
+            }
+
+        }
     }
 }

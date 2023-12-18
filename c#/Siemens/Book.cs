@@ -12,16 +12,32 @@ namespace Siemens
         public string Author { get; set; }
         public string Isbn { get; set; }
         public int Quantity { get; set; }
-
-
-        public bool Borrow()
-        {
-            return true;
+        public List<Borrow> ActiveBorrows {
+            get
+            {
+                var list = new List<Borrow>();
+                foreach (Borrow b in BorrowingSystem.Borrows)
+                {
+                    if (b.BookIsbn == Isbn && !b.Returned)
+                    {
+                        list.Add(b);
+                    }
+                }
+                return list;
+            }
+            
         }
-        public void Return()
+
+        public int CurrentBorrowsCount
         {
+            get
+            {
+                return this.ActiveBorrows.Count;
+            }
 
         }
+
+
     }
 
 }
