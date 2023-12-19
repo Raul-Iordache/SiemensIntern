@@ -1,0 +1,1177 @@
+[
+    {
+        "group": "MATEMATICA",
+        "questions": [
+            {
+                "id": 1,
+                "userAnswear": null,
+                "question": "Intrebare 1 MATEMATICA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 1, OPTIUNEA 1 (group: MATEMATICA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 1, OPTIUNEA 2 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 1, OPTIUNEA 3 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 1, OPTIUNEA 4 (group: MATEMATICA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "userAnswear": null,
+                "question": "Intrebare 2 MATEMATICA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 2, OPTIUNEA 1 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 2, OPTIUNEA 2 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 2, OPTIUNEA 3 (group: MATEMATICA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 2, OPTIUNEA 4 (group: MATEMATICA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "userAnswear": null,
+                "question": "Intrebare 3 MATEMATICA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 3, OPTIUNEA 1 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 3, OPTIUNEA 2 (group: MATEMATICA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 3, OPTIUNEA 3 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 3, OPTIUNEA 4 (group: MATEMATICA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "userAnswear": null,
+                "question": "Intrebare 4 MATEMATICA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 4, OPTIUNEA 1 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 4, OPTIUNEA 2 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 4, OPTIUNEA 3 (group: MATEMATICA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 4, OPTIUNEA 4 (group: MATEMATICA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "userAnswear": null,
+                "question": "Intrebare 5 MATEMATICA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 5, OPTIUNEA 1 (group: MATEMATICA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 5, OPTIUNEA 2 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 5, OPTIUNEA 3 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 5, OPTIUNEA 4 (group: MATEMATICA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "userAnswear": null,
+                "question": "Intrebare 6 MATEMATICA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 6, OPTIUNEA 1 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 6, OPTIUNEA 2 (group: MATEMATICA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 6, OPTIUNEA 3 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 6, OPTIUNEA 4 (group: MATEMATICA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "userAnswear": null,
+                "question": "Intrebare 7 MATEMATICA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 7, OPTIUNEA 1 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 7, OPTIUNEA 2 (group: MATEMATICA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 7, OPTIUNEA 3 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 7, OPTIUNEA 4 (group: MATEMATICA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "userAnswear": null,
+                "question": "Intrebare 8 MATEMATICA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 8, OPTIUNEA 1 (group: MATEMATICA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 8, OPTIUNEA 2 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 8, OPTIUNEA 3 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 8, OPTIUNEA 4 (group: MATEMATICA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "userAnswear": null,
+                "question": "Intrebare 9 MATEMATICA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 9, OPTIUNEA 1 (group: MATEMATICA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 9, OPTIUNEA 2 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 9, OPTIUNEA 3 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 9, OPTIUNEA 4 (group: MATEMATICA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "userAnswear": null,
+                "question": "Intrebare 10 MATEMATICA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 10, OPTIUNEA 1 (group: MATEMATICA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 10, OPTIUNEA 2 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 10, OPTIUNEA 3 (group: MATEMATICA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 10, OPTIUNEA 4 (group: MATEMATICA)",
+                        "ok": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "group": "SPORT",
+        "questions": [
+            {
+                "id": 11,
+                "userAnswear": null,
+                "question": "Intrebare 11 SPORT",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 11, OPTIUNEA 1 (group: SPORT)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 11, OPTIUNEA 2 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 11, OPTIUNEA 3 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 11, OPTIUNEA 4 (group: SPORT)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "userAnswear": null,
+                "question": "Intrebare 12 SPORT",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 12, OPTIUNEA 1 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 12, OPTIUNEA 2 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 12, OPTIUNEA 3 (group: SPORT)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 12, OPTIUNEA 4 (group: SPORT)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "userAnswear": null,
+                "question": "Intrebare 13 SPORT",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 13, OPTIUNEA 1 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 13, OPTIUNEA 2 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 13, OPTIUNEA 3 (group: SPORT)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 13, OPTIUNEA 4 (group: SPORT)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "userAnswear": null,
+                "question": "Intrebare 14 SPORT",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 14, OPTIUNEA 1 (group: SPORT)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 14, OPTIUNEA 2 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 14, OPTIUNEA 3 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 14, OPTIUNEA 4 (group: SPORT)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 15,
+                "userAnswear": null,
+                "question": "Intrebare 15 SPORT",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 15, OPTIUNEA 1 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 15, OPTIUNEA 2 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 15, OPTIUNEA 3 (group: SPORT)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 15, OPTIUNEA 4 (group: SPORT)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 16,
+                "userAnswear": null,
+                "question": "Intrebare 16 SPORT",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 16, OPTIUNEA 1 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 16, OPTIUNEA 2 (group: SPORT)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 16, OPTIUNEA 3 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 16, OPTIUNEA 4 (group: SPORT)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 17,
+                "userAnswear": null,
+                "question": "Intrebare 17 SPORT",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 17, OPTIUNEA 1 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 17, OPTIUNEA 2 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 17, OPTIUNEA 3 (group: SPORT)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 17, OPTIUNEA 4 (group: SPORT)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 18,
+                "userAnswear": null,
+                "question": "Intrebare 18 SPORT",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 18, OPTIUNEA 1 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 18, OPTIUNEA 2 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 18, OPTIUNEA 3 (group: SPORT)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 18, OPTIUNEA 4 (group: SPORT)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 19,
+                "userAnswear": null,
+                "question": "Intrebare 19 SPORT",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 19, OPTIUNEA 1 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 19, OPTIUNEA 2 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 19, OPTIUNEA 3 (group: SPORT)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 19, OPTIUNEA 4 (group: SPORT)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 20,
+                "userAnswear": null,
+                "question": "Intrebare 20 SPORT",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 20, OPTIUNEA 1 (group: SPORT)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 20, OPTIUNEA 2 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 20, OPTIUNEA 3 (group: SPORT)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 20, OPTIUNEA 4 (group: SPORT)",
+                        "ok": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "group": "CHIMIE",
+        "questions": [
+            {
+                "id": 21,
+                "userAnswear": null,
+                "question": "Intrebare 21 CHIMIE",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 21, OPTIUNEA 1 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 21, OPTIUNEA 2 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 21, OPTIUNEA 3 (group: CHIMIE)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 21, OPTIUNEA 4 (group: CHIMIE)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 22,
+                "userAnswear": null,
+                "question": "Intrebare 22 CHIMIE",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 22, OPTIUNEA 1 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 22, OPTIUNEA 2 (group: CHIMIE)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 22, OPTIUNEA 3 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 22, OPTIUNEA 4 (group: CHIMIE)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 23,
+                "userAnswear": null,
+                "question": "Intrebare 23 CHIMIE",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 23, OPTIUNEA 1 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 23, OPTIUNEA 2 (group: CHIMIE)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 23, OPTIUNEA 3 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 23, OPTIUNEA 4 (group: CHIMIE)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 24,
+                "userAnswear": null,
+                "question": "Intrebare 24 CHIMIE",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 24, OPTIUNEA 1 (group: CHIMIE)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 24, OPTIUNEA 2 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 24, OPTIUNEA 3 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 24, OPTIUNEA 4 (group: CHIMIE)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 25,
+                "userAnswear": null,
+                "question": "Intrebare 25 CHIMIE",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 25, OPTIUNEA 1 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 25, OPTIUNEA 2 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 25, OPTIUNEA 3 (group: CHIMIE)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 25, OPTIUNEA 4 (group: CHIMIE)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 26,
+                "userAnswear": null,
+                "question": "Intrebare 26 CHIMIE",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 26, OPTIUNEA 1 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 26, OPTIUNEA 2 (group: CHIMIE)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 26, OPTIUNEA 3 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 26, OPTIUNEA 4 (group: CHIMIE)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 27,
+                "userAnswear": null,
+                "question": "Intrebare 27 CHIMIE",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 27, OPTIUNEA 1 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 27, OPTIUNEA 2 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 27, OPTIUNEA 3 (group: CHIMIE)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 27, OPTIUNEA 4 (group: CHIMIE)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 28,
+                "userAnswear": null,
+                "question": "Intrebare 28 CHIMIE",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 28, OPTIUNEA 1 (group: CHIMIE)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 28, OPTIUNEA 2 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 28, OPTIUNEA 3 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 28, OPTIUNEA 4 (group: CHIMIE)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 29,
+                "userAnswear": null,
+                "question": "Intrebare 29 CHIMIE",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 29, OPTIUNEA 1 (group: CHIMIE)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 29, OPTIUNEA 2 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 29, OPTIUNEA 3 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 29, OPTIUNEA 4 (group: CHIMIE)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 30,
+                "userAnswear": null,
+                "question": "Intrebare 30 CHIMIE",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 30, OPTIUNEA 1 (group: CHIMIE)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 30, OPTIUNEA 2 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 30, OPTIUNEA 3 (group: CHIMIE)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 30, OPTIUNEA 4 (group: CHIMIE)",
+                        "ok": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "group": "CINEMA",
+        "questions": [
+            {
+                "id": 31,
+                "userAnswear": null,
+                "question": "Intrebare 31 CINEMA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 31, OPTIUNEA 1 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 31, OPTIUNEA 2 (group: CINEMA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 31, OPTIUNEA 3 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 31, OPTIUNEA 4 (group: CINEMA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 32,
+                "userAnswear": null,
+                "question": "Intrebare 32 CINEMA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 32, OPTIUNEA 1 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 32, OPTIUNEA 2 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 32, OPTIUNEA 3 (group: CINEMA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 32, OPTIUNEA 4 (group: CINEMA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 33,
+                "userAnswear": null,
+                "question": "Intrebare 33 CINEMA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 33, OPTIUNEA 1 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 33, OPTIUNEA 2 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 33, OPTIUNEA 3 (group: CINEMA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 33, OPTIUNEA 4 (group: CINEMA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 34,
+                "userAnswear": null,
+                "question": "Intrebare 34 CINEMA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 34, OPTIUNEA 1 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 34, OPTIUNEA 2 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 34, OPTIUNEA 3 (group: CINEMA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 34, OPTIUNEA 4 (group: CINEMA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 35,
+                "userAnswear": null,
+                "question": "Intrebare 35 CINEMA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 35, OPTIUNEA 1 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 35, OPTIUNEA 2 (group: CINEMA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 35, OPTIUNEA 3 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 35, OPTIUNEA 4 (group: CINEMA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 36,
+                "userAnswear": null,
+                "question": "Intrebare 36 CINEMA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 36, OPTIUNEA 1 (group: CINEMA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 36, OPTIUNEA 2 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 36, OPTIUNEA 3 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 36, OPTIUNEA 4 (group: CINEMA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 37,
+                "userAnswear": null,
+                "question": "Intrebare 37 CINEMA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 37, OPTIUNEA 1 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 37, OPTIUNEA 2 (group: CINEMA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 37, OPTIUNEA 3 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 37, OPTIUNEA 4 (group: CINEMA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 38,
+                "userAnswear": null,
+                "question": "Intrebare 38 CINEMA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 38, OPTIUNEA 1 (group: CINEMA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 38, OPTIUNEA 2 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 38, OPTIUNEA 3 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 38, OPTIUNEA 4 (group: CINEMA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 39,
+                "userAnswear": null,
+                "question": "Intrebare 39 CINEMA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 39, OPTIUNEA 1 (group: CINEMA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 39, OPTIUNEA 2 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 39, OPTIUNEA 3 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 39, OPTIUNEA 4 (group: CINEMA)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 40,
+                "userAnswear": null,
+                "question": "Intrebare 40 CINEMA",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 40, OPTIUNEA 1 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 40, OPTIUNEA 2 (group: CINEMA)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 40, OPTIUNEA 3 (group: CINEMA)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 40, OPTIUNEA 4 (group: CINEMA)",
+                        "ok": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "group": "FOTBAL",
+        "questions": [
+            {
+                "id": 41,
+                "userAnswear": null,
+                "question": "Intrebare 41 FOTBAL",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 41, OPTIUNEA 1 (group: FOTBAL)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 41, OPTIUNEA 2 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 41, OPTIUNEA 3 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 41, OPTIUNEA 4 (group: FOTBAL)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 42,
+                "userAnswear": null,
+                "question": "Intrebare 42 FOTBAL",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 42, OPTIUNEA 1 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 42, OPTIUNEA 2 (group: FOTBAL)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 42, OPTIUNEA 3 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 42, OPTIUNEA 4 (group: FOTBAL)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 43,
+                "userAnswear": null,
+                "question": "Intrebare 43 FOTBAL",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 43, OPTIUNEA 1 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 43, OPTIUNEA 2 (group: FOTBAL)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 43, OPTIUNEA 3 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 43, OPTIUNEA 4 (group: FOTBAL)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 44,
+                "userAnswear": null,
+                "question": "Intrebare 44 FOTBAL",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 44, OPTIUNEA 1 (group: FOTBAL)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 44, OPTIUNEA 2 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 44, OPTIUNEA 3 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 44, OPTIUNEA 4 (group: FOTBAL)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 45,
+                "userAnswear": null,
+                "question": "Intrebare 45 FOTBAL",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 45, OPTIUNEA 1 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 45, OPTIUNEA 2 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 45, OPTIUNEA 3 (group: FOTBAL)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 45, OPTIUNEA 4 (group: FOTBAL)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 46,
+                "userAnswear": null,
+                "question": "Intrebare 46 FOTBAL",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 46, OPTIUNEA 1 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 46, OPTIUNEA 2 (group: FOTBAL)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 46, OPTIUNEA 3 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 46, OPTIUNEA 4 (group: FOTBAL)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 47,
+                "userAnswear": null,
+                "question": "Intrebare 47 FOTBAL",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 47, OPTIUNEA 1 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 47, OPTIUNEA 2 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 47, OPTIUNEA 3 (group: FOTBAL)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 47, OPTIUNEA 4 (group: FOTBAL)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 48,
+                "userAnswear": null,
+                "question": "Intrebare 48 FOTBAL",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 48, OPTIUNEA 1 (group: FOTBAL)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 48, OPTIUNEA 2 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 48, OPTIUNEA 3 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 48, OPTIUNEA 4 (group: FOTBAL)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 49,
+                "userAnswear": null,
+                "question": "Intrebare 49 FOTBAL",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 49, OPTIUNEA 1 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 49, OPTIUNEA 2 (group: FOTBAL)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 49, OPTIUNEA 3 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 49, OPTIUNEA 4 (group: FOTBAL)",
+                        "ok": false
+                    }
+                ]
+            },
+            {
+                "id": 50,
+                "userAnswear": null,
+                "question": "Intrebare 50 FOTBAL",
+                "options": [
+                    {
+                        "answear": "Raspunsul pentru intrebarea 50, OPTIUNEA 1 (group: FOTBAL)",
+                        "ok": true
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 50, OPTIUNEA 2 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 50, OPTIUNEA 3 (group: FOTBAL)",
+                        "ok": false
+                    },
+                    {
+                        "answear": "Raspunsul pentru intrebarea 50, OPTIUNEA 4 (group: FOTBAL)",
+                        "ok": false
+                    }
+                ]
+            }
+        ]
+    }
+]

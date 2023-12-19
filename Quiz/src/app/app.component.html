@@ -1,0 +1,68 @@
+
+
+<div class="container-fluid pt-3">
+
+
+ <div *ngIf="quiz === null">
+
+  <h1>Bine ai venit la Quiz</h1>
+  <button type="button" class="btn btn-primary mb-2" (click) ="startQuiz()">Incepe</button>
+
+  <div class="mb-3" style="width: 200px;">
+    <label for="questionsPerGroup" class="form-label">Intrebari pe sectiune</label>
+    <input type="text" class="form-control" id="questionsPerGroup" [(ngModel)]="questionsPerGroup" placeholder="Intrebari pe sectiune">
+  </div>
+
+  <h5>Sectiuni: </h5>
+  <ng-container *ngFor="let group of groups">
+    <div class="form-check form-switch">
+      <input class="form-check-input" type="checkbox" role="switch" id="checkGroup-{{group}}" [checked]="group.active" (change)="changeGroups(group.name, $event)">
+      <label class="form-check-label" for="checkGroup-{{group}}">{{group.name}}</label>
+    </div>
+  </ng-container>
+
+ </div>
+
+ <div *ngIf="quiz !== null" >
+  <button type="button" class="btn btn-primary" (click) ="cancelQuiz()">{{finalized ? 'Multumesc': 'Abandon Quiz'}}</button>
+  <!-- <button type="button" class="btn btn-primary ms-2" (click) ="logQuiz()">Log Quiz status</button> -->
+
+  <div *ngIf="!finalized">
+    <h1>Quizul este pornit</h1>
+
+    <h2>Sectiunea este : {{quiz[indexGroup].group}}</h2>
+    <h3>Intrebarea curenta: {{indexQuestion +1}}. "{{activeQuestion.question}}"</h3>
+  
+    <form (submit)="nextQuestion()" #optionsForm="ngForm">
+      <div>
+        <ol>
+          <li *ngFor="let option of activeQuestion.options, let i = index" class="px-2">
+            <span>"{{option.answear}}"" ({{option.ok}})</span>
+            <input type="radio" name="answear" required class="ms-2" [value]="i" [(ngModel)]="activeQuestion.userAnswear" >
+          </li>
+        </ol>
+      </div>
+      <button type="submit" [disabled]="optionsForm.invalid" class="btn btn-primary">Submit</button>
+    </form>
+  </div>
+
+  <div *ngIf="finalized">
+     
+    <h3>Quiz finalizat cu rezultatele:</h3>
+    
+    <div>
+      <ng-container *ngFor="let group of activeGroups">
+        <h4>Sectiunea "{{group.name}}": {{correctAnswers(group.name)}} raspunsuri corecte din total intrebari {{questionsPerGroup}}, procentaj {{(correctAnswers(group.name)/questionsPerGroup)*100}}%</h4>
+        <!-- <button type="button" class="btn btn-primary ms-2" (click) ="correctAnswers(group)">Calculate</button> -->
+      </ng-container>
+    </div>
+
+    
+    <!-- <pre>{{quiz | json}}</pre> -->
+
+  </div>
+
+ </div>
+  
+ 
+</div>
